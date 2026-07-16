@@ -1,6 +1,3 @@
-from text.entity.config_entity import DataIngestionConfig
-
-
 from dataclasses import dataclass
 from pathlib import Path
 
